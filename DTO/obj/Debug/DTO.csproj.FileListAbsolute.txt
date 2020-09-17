@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Handesaut\ההפרויקט\DTO\bin\Debug\DTO.dll
+C:\Users\user\Documents\Handesaut\ההפרויקט\DTO\bin\Debug\DTO.pdb
+C:\Users\user\Documents\Handesaut\ההפרויקט\DTO\bin\Debug\DAL.dll
+C:\Users\user\Documents\Handesaut\ההפרויקט\DTO\bin\Debug\DAL.pdb
+C:\Users\user\Documents\Handesaut\ההפרויקט\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\user\Documents\Handesaut\ההפרויקט\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Handesaut\ההפרויקט\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\user\Documents\Handesaut\ההפרויקט\DTO\obj\Debug\DTO.dll
+C:\Users\user\Documents\Handesaut\ההפרויקט\DTO\obj\Debug\DTO.pdb

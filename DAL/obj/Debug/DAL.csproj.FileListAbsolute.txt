@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Handesaut\ההפרויקט\DAL\bin\Debug\DAL.dll
+C:\Users\user\Documents\Handesaut\ההפרויקט\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Documents\Handesaut\ההפרויקט\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user\Documents\Handesaut\ההפרויקט\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Handesaut\ההפרויקט\DAL\obj\Debug\DAL.dll
+C:\Users\user\Documents\Handesaut\ההפרויקט\DAL\obj\Debug\DAL.pdb

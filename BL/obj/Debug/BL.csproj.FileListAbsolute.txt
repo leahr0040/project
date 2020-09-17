@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Handesaut\ההפרויקט\BL\bin\Debug\BL.dll
+C:\Users\user\Documents\Handesaut\ההפרויקט\BL\bin\Debug\BL.pdb
+C:\Users\user\Documents\Handesaut\ההפרויקט\BL\bin\Debug\DAL.dll
+C:\Users\user\Documents\Handesaut\ההפרויקט\BL\bin\Debug\DTO.dll
+C:\Users\user\Documents\Handesaut\ההפרויקט\BL\bin\Debug\DAL.pdb
+C:\Users\user\Documents\Handesaut\ההפרויקט\BL\bin\Debug\DTO.pdb
+C:\Users\user\Documents\Handesaut\ההפרויקט\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\user\Documents\Handesaut\ההפרויקט\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Handesaut\ההפרויקט\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user\Documents\Handesaut\ההפרויקט\BL\obj\Debug\BL.dll
+C:\Users\user\Documents\Handesaut\ההפרויקט\BL\obj\Debug\BL.pdb
